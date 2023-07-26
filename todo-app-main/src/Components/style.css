@@ -1,0 +1,4 @@
+.MuiTabs-root .MuiTabs-scroller.MuiTabs-fixed .MuiTabs-indicator {
+    height: 4px !important;
+    border-radius: 4px 4px 0px 0px;
+}
